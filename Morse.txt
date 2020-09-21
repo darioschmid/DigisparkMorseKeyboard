@@ -30,7 +30,7 @@ E •     A •-    W •--   J •---
 =  -•••-    +  •-•-•
 /  -••-•    @  •--•-•
 
-Space ⌴     •-•••
-Shift ↑     ----
+Space ⌴      •-•••
+Shift ↑      ----
 Backspace ⌫ ••••••
-Enter ↩     •••-•-
+Enter ↩      •••-•-
