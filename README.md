@@ -5,3 +5,4 @@ Alternatively, you can use a standalone AtTiny85. This requires to first burn th
 
 ## Schematic
 
+[Picture](https://github.com/maludo99/DigisparkMorseKeyboard/blob/master/Images/MaludoUnoFritzing.jpg?raw=true)
