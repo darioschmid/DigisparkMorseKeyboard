@@ -7,18 +7,23 @@ If you want to do this without the Digispark (just with AtTiny85), check out Ral
 \
 I completed the morse code character set by adding: ; ! _ ( ) ' @\
 I also added seamless integration for both US and DE Keyboard Layouts.\
-You can get a complete list of all available morse code characters ![here](https://raw.githubusercontent.com/maludo99/DigisparkMorseKeyboard/master/Morse.txt).
-
-## Funktionsweise
-
+You can get a complete list of all available morse code characters at [./MorseCodes.txt](https://raw.githubusercontent.com/maludo99/DigisparkMorseKeyboard/master/Morse.txt).\
+Although all the letters should work on all QWERTY/QWERTZ style keyboards, there is currently no support for special characters for other Keyboard Layouts.
 
 
 ## Wiring
 
+* Attach the Key to Pin 0
+* Attach an LED and current limiting resistor to Pin 1 (ignore this if you use a Digispark, there's already a LED built in)
+* Attach the Speed Switch to Pin 2
+
 ![Picture](https://github.com/maludo99/DigisparkMorseKeyboard/blob/master/Images/MaludoUnoFritzing.jpg?raw=true)
 
-Alternatively, you can use my [Maludo Uno](https://github.com/maludo99/MaludoUno):
+Alternatively, you can use my [Maludo Uno](https://github.com/maludo99/MaludoUno) custom PCB:
 
 <!--- ![Picture2]() --->
 
-## Code
+
+## How it works
+
+Open the Arduino 
