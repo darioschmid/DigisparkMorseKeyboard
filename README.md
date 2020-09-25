@@ -7,7 +7,7 @@ If you want to do this without the Digispark (just with AtTiny85), check out Ral
 \
 I completed the morse code character set by adding: ; ! _ ( ) ' @\
 I also added seamless integration for both US and DE Keyboard Layouts.\
-You can get a complete list of all available morse code characters by holding down the Morse Key for 2 sec, or [here](https://raw.githubusercontent.com/maludo99/DigisparkMorseKeyboard/master/Morse.txt).
+You can get a complete list of all available morse code characters ![here](https://raw.githubusercontent.com/maludo99/DigisparkMorseKeyboard/master/Morse.txt).
 
 ## Funktionsweise
 
