@@ -29,8 +29,8 @@ Alternatively, you can use my [Maludo Uno](https://github.com/maludo99/MaludoUno
 Follow the official [Digispark setup](https://digistump.com/wiki/digispark/tutorials/connecting) guide for setting up the Arduino IDE and installing drivers.\
 Get my Arduino script files from [./DigisparkMorseKeyboard](https://github.com/maludo99/DigisparkMorseKeyboard/tree/master/DigisparkMorseKeyboard). Open the files in the Arduino IDE, select the Default Digispark Board, hit upload, and plug in your Digispark.
 
-Now you can start morsing! If you are a beginner, activate the speed switch. This deactivates automatic space insertion between words and allows you to morse at a slower speed. So you can look up the Morse Codes for 
+Now you can start morsing! If you are a beginner, flick the speed switch to deactivate the automatic space insertion between words and morsing at a slower speed. That means you have the time to look up the Morse Codes for each letter one by one.\
 
-
-
+You can get a complete overview of all available Morse Codes at [./MorseCodes.txt](https://raw.githubusercontent.com/maludo99/DigisparkMorseKeyboard/master/MorseCodes.txt).\
+ 
 
