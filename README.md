@@ -31,6 +31,6 @@ Get my Arduino script files from [./DigisparkMorseKeyboard](https://github.com/m
 
 Now you can start morsing! If you are a beginner, flick the speed switch to deactivate the automatic space insertion between words and morsing at a slower speed. That means you have the time to look up the Morse Codes for each letter one by one.\
 
-You can get a complete overview of all available Morse Codes at [./MorseCodes.txt](https://raw.githubusercontent.com/maludo99/DigisparkMorseKeyboard/master/MorseCodes.txt).\
+You can get a complete overview of all available Morse Codes at [./MorseCodes.txt](https://raw.githubusercontent.com/maludo99/DigisparkMorseKeyboard/master/MorseCodes.txt) or by opening a text editor and holding the Button for 4 seconds.
  
 
