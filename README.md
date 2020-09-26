@@ -26,8 +26,14 @@ Alternatively, you can use my [Maludo Uno](https://github.com/maludo99/MaludoUno
 
 ## Software Setup
 
-Follow the official [Digispark setup](https://digistump.com/wiki/digispark/tutorials/connecting) guide for setting up the Arduino IDE and installing drivers.\
-Download my Arduino script files from [./DigisparkMorseKeyboard](https://github.com/maludo99/DigisparkMorseKeyboard/tree/master/DigisparkMorseKeyboard). Open the files in the Arduino IDE, select the Default Digispark Board, hit upload, and plug in your Digispark.
+* Follow the official [Digispark setup guide](https://digistump.com/wiki/digispark/tutorials/connecting) for setting up the Arduino IDE and installing drivers.
+* Download my Arduino project from [./DigisparkMorseKeyboard](https://github.com/maludo99/DigisparkMorseKeyboard/tree/master/DigisparkMorseKeyboard) and open it in the Arduino IDE
+* Adjust the "DeLayout" variable to reflect your Keyboard Layout
+* Go to "Tools" --> "Boards" --> "Digispark Default"
+* Go to "Tools" --> "Programmer" --> "Micronucleus"
+* Hit Upload, then plug in the Digispark when it says so
+
+Feel free to contact me if you encounter any problems :)
 
 
 ## 
