@@ -2,7 +2,7 @@
 
 This is a Morse Code USB Keyboard Arduino script for the Digispark.\
 \
-This is based on Ralf Beesner's [Digispark-Morse-Keyboard](http://www.elektronik-labor.de/Arduino/Digispark-Morsekeyboard.html) which is itself based on "morse code decoder" by Burkhard Kainka.\
+This is based on Ralf Beesner's [Digispark-Morse-Keyboard](http://www.elektronik-labor.de/Arduino/Digispark-Morsekeyboard.html).\
 If you want to do this without the Digispark (just with AtTiny85), check out Ralf Beesner's website.\
 \
 I completed the morse code character set by adding: ; ! _ ( ) ' @\
