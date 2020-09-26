@@ -7,7 +7,7 @@ If you want to do this without the Digispark (just with AtTiny85), check out Ral
 \
 I completed the morse code character set by adding: ; ! _ ( ) ' @\
 I also added seamless integration for both US and DE Keyboard Layouts.\
-You can get a complete list of all available morse code characters at [./MorseCodes.txt](https://raw.githubusercontent.com/maludo99/DigisparkMorseKeyboard/master/Morse.txt).\
+You can get a complete list of all available morse code characters at [./MorseCodes.txt](https://raw.githubusercontent.com/maludo99/DigisparkMorseKeyboard/master/MorseCodes.txt).\
 Although all the letters should work on all QWERTY/QWERTZ style keyboards, there is currently no support for special characters for other Keyboard Layouts.
 
 
@@ -27,4 +27,10 @@ Alternatively, you can use my [Maludo Uno](https://github.com/maludo99/MaludoUno
 ## How it works
 
 Follow the official [Digispark setup](https://digistump.com/wiki/digispark/tutorials/connecting) guide for setting up the Arduino IDE and installing drivers.\
-Download my Arduino script files [./DigisparkMorseKeyboard](https://github.com/maludo99/DigisparkMorseKeyboard/tree/master/DigisparkMorseKeyboard)
+Get my Arduino script files from [./DigisparkMorseKeyboard](https://github.com/maludo99/DigisparkMorseKeyboard/tree/master/DigisparkMorseKeyboard). Open the files in the Arduino IDE, select the Default Digispark Board, hit upload, and plug in your Digispark.
+
+Now you can start morsing! If you are a beginner, activate the speed switch. This deactivates automatic space insertion between words and allows you to morse at a slower speed. So you can look up the Morse Codes for 
+
+
+
+
