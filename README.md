@@ -26,4 +26,5 @@ Alternatively, you can use my [Maludo Uno](https://github.com/maludo99/MaludoUno
 
 ## How it works
 
-Follow the official [Digispark setup](https://digistump.com/wiki/digispark/tutorials/connecting) guide for setting up the Arduino IDE and installing drivers.
+Follow the official [Digispark setup](https://digistump.com/wiki/digispark/tutorials/connecting) guide for setting up the Arduino IDE and installing drivers.\
+Download my Arduino script files [./DigisparkMorseKeyboard](https://github.com/maludo99/DigisparkMorseKeyboard/tree/master/DigisparkMorseKeyboard)
