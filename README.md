@@ -10,6 +10,18 @@ I also added seamless integration for both US and DE Keyboard Layouts.\
 You can get a complete list of all available morse code characters at [./MorseCodes.txt](https://raw.githubusercontent.com/maludo99/DigisparkMorseKeyboard/master/MorseCodes.txt).\
 Although all the letters should work on all QWERTY/QWERTZ style keyboards, there is currently no support for special characters for other Keyboard Layouts.
 
+## How It Works
+
+Visit [DigisparkMorseCode/MorseCodes.txt](https://raw.githubusercontent.com/maludo99/DigisparkMorseKeyboard/master/MorseCodes.txt), or open a Text Editor and hold the key down for 4sec. It prints out all available Morse Codes.
+
+Example:
+
+    "M  A   L    U   D   O      U  N   O"
+    "-- •- •-•• ••- -•• ---    ••- -• ---"
+
+
+Setting the Speed Switch to "Fast" activates automatic space insertion between words and allows your "dah's" (long presses) to be shorter.\
+If you set the switch to "Slow", you must manually add spaces between words with the morse codes "----" or "•-•••"
 
 ## Wiring
 
@@ -38,7 +50,7 @@ Feel free to contact me if you encounter any problems :)
 
 ## 
 
-Now you can start morsing! If you are a beginner (like me), flick the speed switch to deactivate the automatic space insertion between words and morsing at a slower speed. That means you have the time to look up the Morse Codes for each letter one by one.
+Now you can start morsing! If you are a beginner (like me), flick the speed switch to deactivate the automatic space insertion between words and morsing at a slower speed. That means you have time to look up the Morse Codes for each letter one by one.
 
 You can get a complete overview of all available Morse Codes at [./MorseCodes.txt](https://raw.githubusercontent.com/maludo99/DigisparkMorseKeyboard/master/MorseCodes.txt) or by opening a text editor and holding the Button for 4 seconds.
  
