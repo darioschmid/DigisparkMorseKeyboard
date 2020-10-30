@@ -21,7 +21,7 @@ Although all the letters should work on all QWERTY/QWERTZ style keyboards, there
 
 Alternatively, you can use my [Maludo Uno](https://github.com/maludo99/MaludoUno) custom PCB:
 
-<!--- ![Picture2]() --->
+![Picture](https://github.com/maludo99/DigisparkMorseKeyboard/blob/master/Images/MaludoUno.jpg?raw=true)
 
 
 ## Software Setup
