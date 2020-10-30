@@ -12,7 +12,7 @@ Although all the letters should work on all QWERTY/QWERTZ style keyboards, there
 
 ## How It Works
 
-Visit [DigisparkMorseCode/MorseCodes.txt](https://raw.githubusercontent.com/maludo99/DigisparkMorseKeyboard/master/MorseCodes.txt), or open a Text Editor and hold the key down for 4sec. It prints out all available Morse Codes.
+Visit [DigisparkMorseCode/MorseCodes.txt](https://raw.githubusercontent.com/maludo99/DigisparkMorseKeyboard/master/MorseCodes.txt), or open a Text Editor and hold the key down for 4sec. It prints out all available Morse Codes. Hold down the key to switch between DE and US keyboard layout.
 
 Example:
 
@@ -21,7 +21,7 @@ Example:
 
 
 Setting the Speed Switch to "Fast" activates automatic space insertion between words and allows your "dah's" (long presses) to be shorter.\
-If you set the switch to "Slow", you must manually add spaces between words with the morse codes "----" or "•-•••"
+If you set the switch to "Slow", you must manually add spaces between words with the morse codes "----" or "•-•••".
 
 ## Wiring
 
