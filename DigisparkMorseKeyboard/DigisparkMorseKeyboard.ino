@@ -184,9 +184,9 @@ void loop() {
     }
     if (timepressed > 1300) {
       if (DeLayout) {
-        DigiKeyboard.println("https://github.com&maludo99&DigisparkMorseKezboard&blob&master&MorseCodes.txt");
+        DigiKeyboard.println("https://github.com&darioschmid&DigisparkMorseKezboard&blob&master&MorseCodes.txt");
       } else {
-        DigiKeyboard.println("https://github.com/maludo99/DigisparkMorseKeyboard/blob/master/MorseCodes.txt");
+        DigiKeyboard.println("https://github.com/darioschmid/DigisparkMorseKeyboard/blob/master/MorseCodes.txt");
       }
       charactercode = 1;
       pendingSpace = false;
